@@ -72,23 +72,43 @@ public class All_Problem_File {
 //	 BC
 //	 DEF
 //	 GHIJ
-	 
-	
+//	 
+//	
 //		Solution 4: 
+//	
+//	public static void main(String[] args) {
+//		int n = 4;
+//		char ch = 'A';
+//		for(int line = 1; line<=n;line++) {
+//			for(int chars =1; chars<=line; chars++) {
+//				System.out.print(ch);
+//				ch++;
+//			}
+//			System.out.println();
+//		}
+//	}
+//	
+//}
 	
+//	Problem 5: Print Square Pattern using star(*) and space(_)
+//	*_*_*_*_*_
+//	*_*_*_*_*_
+//	*_*_*_*_*_
+//	*_*_*_*_*_
+//	*_*_*_*_*_
+//	
+//	Solution 5: 
 	public static void main(String[] args) {
-		int n = 4;
-		char ch = 'A';
-		for(int line = 1; line<=n;line++) {
-			for(int chars =1; chars<=line; chars++) {
-				System.out.print(ch);
-				ch++;
+		int n=5;
+		for(int i=1;i<=n;i++) {
+			for(int j=1;j<=n;j++) {
+				System.out.print("*_");
 			}
 			System.out.println();
 		}
 	}
-	
-}
+		
+}     
 	
 	
 	
