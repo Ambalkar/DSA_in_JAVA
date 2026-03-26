@@ -98,18 +98,44 @@ public class All_Problem_File {
 //	*_*_*_*_*_
 //	
 //	Solution 5: 
-	public static void main(String[] args) {
-		int n=5;
-		for(int i=1;i<=n;i++) {
-			for(int j=1;j<=n;j++) {
-				System.out.print("*_");
-			}
-			System.out.println();
-		}
-	}
-		
-}     
+//	public static void main(String[] args) {
+//		int n=5;
+//		for(int i=1;i<=n;i++) {
+//			for(int j=1;j<=n;j++) {
+//				System.out.print("*_");
+//			}
+//			System.out.println();
+//		}
+//	}
+//		
+//}     
+//	
 	
+//	Problem 6: Print X pattern
+//	*     *
+//	  * *
+//	   *
+//	  * *
+//	*     *
+//	   
+//	
+//	Solution 6:
+	
+
+//	public static void main(String[] args) {
+//		int n = 5;
+//		for (int row = 1; row <= n; row++) {
+//			for (int col = 1; col <= n; col++) {
+//				if (col - row == 0 || col + row == n + 1) {
+//					System.out.print("*");
+//				} else {
+//					System.out.print(" ");
+//				}
+//			}
+//			System.out.println();
+//		}
+//	}
+//}
 	
 	
 	
