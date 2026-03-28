@@ -1,5 +1,7 @@
 package DSA_in_JAVA;
 
+import java.util.Scanner;
+
 public class All_Problem_File {
 
 	
@@ -149,16 +151,35 @@ public class All_Problem_File {
 //	Solution 7:
 //		
 //	
-	public static void main(String[] args) {
-		int n = 5;
-		int num = 1;
-
-		for (int i = 1; i <= n; i++) {
-			for (int j = 1; j <= i; j++) {
-				System.out.print(num + " ");
-				num++;
+//	public static void main(String[] args) {
+//		int n = 5;
+//		int num = 1;
+//
+//		for (int i = 1; i <= n; i++) {
+//			for (int j = 1; j <= i; j++) {
+//				System.out.print(num + " ");
+//				num++;
+//			}
+//			System.out.println();
+//		}
+//	}
+//}
+//	
+//	Problem 8: Print reverse of a number by taking number as a input from the user.
+//	
+//	Solution 8:
+//		
+		public static void main(String[] args) {
+			Scanner s = new Scanner(System.in);
+			System.out.println("Enter the number");
+			int num = s.nextInt();
+			while(num>0) {
+				int rev_num=num%10;
+				System.out.print(rev_num);
+				num=num/10;
 			}
 			System.out.println();
 		}
 	}
-}
+		
+	
