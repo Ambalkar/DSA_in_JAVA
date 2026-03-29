@@ -169,17 +169,52 @@ public class All_Problem_File {
 //	
 //	Solution 8:
 //		
-		public static void main(String[] args) {
-			Scanner s = new Scanner(System.in);
-			System.out.println("Enter the number");
-			int num = s.nextInt();
-			while(num>0) {
-				int rev_num=num%10;
-				System.out.print(rev_num);
-				num=num/10;
-			}
-			System.out.println();
-		}
-	}
-		
+//		public static void main(String[] args) {
+//			Scanner s = new Scanner(System.in);
+//			System.out.println("Enter the number");
+//			int num = s.nextInt();
+//			while(num>0) {
+//				int rev_num=num%10;
+//				System.out.print(rev_num);
+//				num=num/10;
+//			}
+//			System.out.println();
+//		}
+//	}
+//		
+//	Output:
+//		Enter the number
+//		45631
+//		13654
+//	Problem 9: Check if the number entered by the user is prime or not.
+	
+//	Solution 9:
+	
+//	public static void main(String[] args) {
+//		System.out.println("Enter the number");
+//		Scanner s = new Scanner(System.in);
+//		int num = s.nextInt();
+//		boolean prime = true;
+//		if (num <= 1) {
+//			prime = false;
+//			System.out.println("The number is invalid");
+//		} else {
+//			for (int i = 2; i <= num / 2; i++) {
+//				if (num % i == 0) {
+//					prime = false;
+//					break;
+//				}
+//			}
+//		}
+//		if (prime) {
+//			System.out.println("The number is prime");
+//		} else {
+//			System.out.println("The number is not prime");
+//		}
+//	}
+//}
+//	Output: Enter the number
+//	8
+//	The number is not prime
+//
 	
