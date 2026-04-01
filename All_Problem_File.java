@@ -217,4 +217,38 @@ public class All_Problem_File {
 //	8
 //	The number is not prime
 //
-	
+// DSA Topic 1: Array
+// Defination: An array is a data structure that can hold a fixed number of values of the same type. It is used to store multiple values in a single variable, instead of declaring separate variables for each value. Arrays are indexed, meaning that each element in the array can be accessed using its index.
+// Creating an Arraay:
+// int[] arr = new int[5]; // creates an array of integers with a size of 5
+// int[] arr = {1, 2, 3, 4, 5}; // creates an array of integers with the specified values
+//Operations on Array:
+// 1. Insert
+// 2. Delete
+// 3. Traverse
+// 4. Search
+// 5. Update
+// Taking input from the user and storing it in an array:
+// public static void main(String[] args) {
+//     Scanner s = new Scanner(System.in);
+//     System.out.println("Enter the size of the array");
+//     int size = s.nextInt();
+//     int[] arr = new int[size];
+//     System.out.println("Enter the elements of the array");
+//     for (int i = 0; i < size; i++) {
+//         arr[i] = s.nextInt();
+//     }
+//     System.out.println("The elements of the array are:");
+//     for (int i = 0; i < size; i++) {
+//         System.out.print(arr[i] + " ");
+//         }
+//     }
+// }
+// Output:
+// Enter the size of the array
+// 5
+// Enter the elements of the array
+// 1 2 3 4 5
+// The elements of the array are:
+// 1 2 3 4 5
+
