@@ -2,6 +2,7 @@ package DSA_in_JAVA;
 
 import java.util.Scanner;
 
+
 public class All_Problem_File {
 
 	
@@ -251,4 +252,24 @@ public class All_Problem_File {
 // 1 2 3 4 5
 // The elements of the array are:
 // 1 2 3 4 5
+//
+//Updating the array using call by reference 
+//	public static void Update(int marks[]) {
+//		for (int i = 0; i < marks.length; i++) {
+//			marks[i] = marks[i] + 1;
+//		}
+//	}
+//
+//	public static void main(String[] args) {
+//		int marks[] = { 99, 60, 57 };
+//		Update(marks);
+//		for (int i = 0; i < marks.length; i++) {
+//			System.out.print(marks[i]+ " ");
+//		}
+//		System.out.println();
+//	}
+//}
+	
+	
+	
 
