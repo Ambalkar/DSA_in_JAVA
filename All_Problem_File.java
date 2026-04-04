@@ -269,7 +269,40 @@ public class All_Problem_File {
 //		System.out.println();
 //	}
 //}
-	
-	
-	
+//
+//	
+//	Problem 10 : Linear Search:
+//	Linear search is defined as a process that sequentially visits every element in a data structure,
+//	starting from the first index and moving toward the last,
+//	until the desired element is found or the end of the collection is reached. 	
+//	
+//	Solution 9: 
+//	public static int LinearSearch(int numbers[], int key) {
+//		for (int i = 0; i < numbers.length; i++) {
+//			if (numbers[i] == key) {
+//				return i;
+//
+//			}
+//
+//		}
+//		return -1;
+//
+//	}
+//
+//	public static void main(String[] args) {
+//		int numbers[] = { 12, 15, 65, 48, 22 };
+//		int key = 22;
+//		int index = LinearSearch(numbers, key);
+//
+//		if (index == -1) {
+//			System.out.println("Key not found");
+//		} else {
+//			System.out.println("The key is at the index : " + index);
+//		}
+//	}
+//}
+//
+//
+//Output:
+//	The key is at the index : 4
 
