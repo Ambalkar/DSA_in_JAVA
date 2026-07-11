@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/0010-regular-expression-matching) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
