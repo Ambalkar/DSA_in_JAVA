@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/0010-regular-expression-matching) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ambalkar/DSA_in_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
